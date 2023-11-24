@@ -1,0 +1,269 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'sys_clk'
+Slack : -161.154
+TNS   : -5086.879
+
+Type  : Slow 1200mV 85C Model Setup 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -6.644
+TNS   : -1341.629
+
+Type  : Slow 1200mV 85C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -5.234
+TNS   : -19.417
+
+Type  : Slow 1200mV 85C Model Setup 'i2c_dri:i2c_dri_inst|dri_clk'
+Slack : -4.154
+TNS   : -222.573
+
+Type  : Slow 1200mV 85C Model Setup 'cam_pclk'
+Slack : -3.048
+TNS   : -99.720
+
+Type  : Slow 1200mV 85C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.196
+TNS   : -0.391
+
+Type  : Slow 1200mV 85C Model Hold 'cam_pclk'
+Slack : -1.447
+TNS   : -1.774
+
+Type  : Slow 1200mV 85C Model Hold 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -1.235
+TNS   : -4.453
+
+Type  : Slow 1200mV 85C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.147
+TNS   : -0.293
+
+Type  : Slow 1200mV 85C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.425
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'i2c_dri:i2c_dri_inst|dri_clk'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'sys_clk'
+Slack : 0.507
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'cam_pclk'
+Slack : -2.468
+TNS   : -79.001
+
+Type  : Slow 1200mV 85C Model Recovery 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -0.679
+TNS   : -24.558
+
+Type  : Slow 1200mV 85C Model Removal 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -1.316
+TNS   : -49.841
+
+Type  : Slow 1200mV 85C Model Removal 'cam_pclk'
+Slack : 0.358
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -3.201
+TNS   : -669.558
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cam_pclk'
+Slack : -3.201
+TNS   : -129.270
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'i2c_dri:i2c_dri_inst|dri_clk'
+Slack : -1.487
+TNS   : -132.343
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.690
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 9.718
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.744
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'sys_clk'
+Slack : -146.550
+TNS   : -4626.986
+
+Type  : Slow 1200mV 0C Model Setup 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -6.227
+TNS   : -1237.602
+
+Type  : Slow 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -4.630
+TNS   : -17.411
+
+Type  : Slow 1200mV 0C Model Setup 'i2c_dri:i2c_dri_inst|dri_clk'
+Slack : -3.863
+TNS   : -203.258
+
+Type  : Slow 1200mV 0C Model Setup 'cam_pclk'
+Slack : -2.782
+TNS   : -88.787
+
+Type  : Slow 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.009
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'cam_pclk'
+Slack : -1.293
+TNS   : -1.538
+
+Type  : Slow 1200mV 0C Model Hold 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -1.115
+TNS   : -3.983
+
+Type  : Slow 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.270
+TNS   : -0.539
+
+Type  : Slow 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'i2c_dri:i2c_dri_inst|dri_clk'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'sys_clk'
+Slack : 0.470
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'cam_pclk'
+Slack : -2.161
+TNS   : -68.769
+
+Type  : Slow 1200mV 0C Model Recovery 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -0.540
+TNS   : -18.881
+
+Type  : Slow 1200mV 0C Model Removal 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -1.115
+TNS   : -41.986
+
+Type  : Slow 1200mV 0C Model Removal 'cam_pclk'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -3.201
+TNS   : -669.558
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cam_pclk'
+Slack : -3.201
+TNS   : -129.270
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'i2c_dri:i2c_dri_inst|dri_clk'
+Slack : -1.487
+TNS   : -132.343
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.671
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 9.717
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.754
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'sys_clk'
+Slack : -69.241
+TNS   : -2185.059
+
+Type  : Fast 1200mV 0C Model Setup 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -2.294
+TNS   : -383.850
+
+Type  : Fast 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.917
+TNS   : -6.851
+
+Type  : Fast 1200mV 0C Model Setup 'i2c_dri:i2c_dri_inst|dri_clk'
+Slack : -1.262
+TNS   : -46.727
+
+Type  : Fast 1200mV 0C Model Setup 'cam_pclk'
+Slack : -0.755
+TNS   : -7.888
+
+Type  : Fast 1200mV 0C Model Setup 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : -0.053
+TNS   : -0.105
+
+Type  : Fast 1200mV 0C Model Hold 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -0.824
+TNS   : -3.095
+
+Type  : Fast 1200mV 0C Model Hold 'cam_pclk'
+Slack : -0.806
+TNS   : -1.178
+
+Type  : Fast 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 0.056
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'i2c_dri:i2c_dri_inst|dri_clk'
+Slack : 0.136
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.147
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'sys_clk'
+Slack : 0.207
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'cam_pclk'
+Slack : -0.979
+TNS   : -31.319
+
+Type  : Fast 1200mV 0C Model Recovery 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -0.124
+TNS   : -3.389
+
+Type  : Fast 1200mV 0C Model Removal 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -0.801
+TNS   : -30.568
+
+Type  : Fast 1200mV 0C Model Removal 'cam_pclk'
+Slack : 0.034
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cam_pclk'
+Slack : -3.000
+TNS   : -109.647
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'lcd_rgb_top:lcd_rgb_top_inst|clk_div:clk_div_inst|clk_12_5m'
+Slack : -1.000
+TNS   : -418.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'i2c_dri:i2c_dri_inst|dri_clk'
+Slack : -1.000
+TNS   : -89.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 4.734
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'sys_clk'
+Slack : 9.236
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'pll_inst|altpll_component|auto_generated|pll1|clk[2]'
+Slack : 9.797
+TNS   : 0.000
+
+------------------------------------------------------------

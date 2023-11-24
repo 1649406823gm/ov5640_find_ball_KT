@@ -1,0 +1,16 @@
+Fitter Status : Successful - Thu Nov 23 16:07:06 2023
+Quartus II 64-Bit Version : 13.1.0 Build 162 10/23/2013 SJ Full Version
+Revision Name : cmos_lcd
+Top-level Entity Name : cmos_lcd
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 4,008 / 10,320 ( 39 % )
+    Total combinational functions : 3,867 / 10,320 ( 37 % )
+    Dedicated logic registers : 908 / 10,320 ( 9 % )
+Total registers : 908
+Total pins : 86 / 180 ( 48 % )
+Total virtual pins : 0
+Total memory bits : 35,960 / 423,936 ( 8 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )
